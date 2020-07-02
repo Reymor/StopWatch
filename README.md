@@ -7,9 +7,10 @@ A simple Batch Script, turned into a Stopwatch program.
 
 ![Screenshot](img/pause.png) ![Screenshot](img/stop.png)
 
-> New Themes
+> :diamond_shape_with_a_dot_inside: New Themes
 
 ![Screenshot](img/themes.png)
 
 # Installation
-Download the .bat file and double click on it to run(Windows only).
+:arrow_down:[Download](https://github.com/Reymor/StopWatch/releases) the .bat file and double click on it to run(Windows only).
+
