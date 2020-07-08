@@ -11,6 +11,9 @@ A simple Batch Script, turned into a Stopwatch program.
 
 ![Screenshot](img/themes.png)
 
+# Operating platform
+Windows Only
+
 # Installation
-:arrow_down:[Download](https://github.com/Reymor/StopWatch/releases) the .bat file and double click on it to run(Windows only).
+:arrow_down:[Download](https://github.com/Reymor/StopWatch/releases) the .bat file and double click on it to run.
 
